@@ -1,15 +1,10 @@
 # origin
 A Tool to find origin ips of a domain and to scan for open ports of ips
-To run
-chmod  +x origin.sh
-./origin.sh
 
-
-
- To run it ,your pc needs 
- Censys
- httpx
- naabu
+To run it ,your pc needs 
+*  Censys
+* httpx
+* naabu
  
 *Installlation*
  
